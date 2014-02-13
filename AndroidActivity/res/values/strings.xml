@@ -1,0 +1,16 @@
+<resources>
+
+    <string name="app_name">ProxyBuy</string>
+    <string name="check_box_price">Classer par prix</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_list_of_article">ListOfArticle</string>
+    <string name="title_activity_article_adapter">ArticleAdapter</string>
+    <string name="title_activity_map">MapActivity</string>
+    <string name="search_bar_value">Entrez votre article</string>
+    <string name="search_button">Chercher</string>
+    <string name="find_store_button">Trouver un magasin</string>
+    <string name="title_activity_article_list">Liste des Magasins</string>
+    <string name="title_activity_map_article">Carte</string>
+
+</resources>
